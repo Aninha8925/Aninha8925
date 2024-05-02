@@ -1,6 +1,4 @@
-<h2>Olá, meu nome é Analice da Mata!</h2>
-
-  <h3>Gosto de estudar diversas coisas e tendo a aprender rápido! adoro trabalhar<br> com web ,desktop, mobile.. ( na real, gosto de fazer tudo! )</h3>    
+<h2>Olá, meu nome é Analice da Mata!</h2> 
 
   <br>
   
