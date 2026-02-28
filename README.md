@@ -1,6 +1,6 @@
 <h2>Olá, meu nome é Analice da Mata!</h2>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmswMGJhdWd6dHFkd2FoMzI2cGo5cnpyZmZuOHJ2dDhzdnRubzhlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Til4tYfB4WGZN41E6/giphy.gif" width="200"/>
+<img src="https://github.com/user-attachments/assets/211271ac-8701-4a3e-ac5b-8502b3d907d1" width="800" height="200"/>
 
 ---
 
