@@ -40,4 +40,6 @@
 
 ---
 
+![Pacman](https://raw.githubusercontent.com/Aninha8925/Aninha8925/output/pacman.svg)
+
 _Este README está sempre em atualização para acompanhar meus estudos e projetos!_ 🚀✨
